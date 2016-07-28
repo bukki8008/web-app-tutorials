@@ -1,0 +1,56 @@
+.dboard.row.col-md-9.col-md-4
+{
+    border: solid thin #333;
+}
+.dboard{
+    text-align: center;
+}
+.dboard .inner{
+    background-color:#fff;
+    margin-top: 10%;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.18);
+    
+}
+.dboard .inner .col-md-4,.dboard .inner .col-md-3,.dboard .inner .col-md-6,.dboard .inner .col-md-8{
+    padding-top: 20px;
+    
+}
+    
+}
+.dboard .col-md-4{
+    border: solid thin rgba(0,0,0,0.18);
+    padding-top: 10px;
+}
+body{
+    background-color: teal;
+}
+
+.green{
+    color: #00B16A;
+}
+.red{
+    color: #CF000F;
+}
+.orange{
+    color: #E87E04;
+}
+.brown{
+    color:#96281B; 
+}
+.pink{
+    color: #F64747;
+}
+.blue{
+    color:#3498DB; 
+}
+.yellow{
+    color: #F7CA18;
+}
+.icon-size-big{
+    font-size: 60px;
+}
+.icon-size-medium{
+    font-size: 20px;
+}
+.nav-color{ 
+background-color: teal;}
